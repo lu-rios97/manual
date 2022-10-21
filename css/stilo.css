@@ -1,0 +1,8 @@
+* container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+* h2, h5 {
+    background-color: bisque;
+}
